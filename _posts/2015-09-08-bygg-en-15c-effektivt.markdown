@@ -12,14 +12,14 @@ Någon hänsyn till omkostnader som t.ex. magasin och silos och byggnadernas vet
 
 Guiden förutsätter också, förstås, att det är en 15c man vill bygga. Sågverk, skogshuggare och andra liknande byggnader har inte tagits hänsyn till, men de spelar ingen större roll i sammanhanget. Det kan sägas att man definitivt inte ska strunta i dem, men att man kan ungefär när första oasen tas hålla dem på några nivåer under vetefälten utan att skämmas. Oaser som ger 25% bonus av två olika sortes råvaror, alltid vete i kombination med trä, lera eller järn, räknas i den här guiden som en 25%-veteoas.
 
-Fälten ska byggas, i normalfallet iaf, upp med en nivå i taget. Man avslutar nivå 1 innan man bygger nivå 2.
+Fälten ska byggas upp med en nivå i taget. Man avslutar nivå 1 innan man bygger nivå 2.
 
 Den första frågan sen är när man ska börja bygga vetekvarn. Detta gör sig bäst när man har 13 fält på nivå 4 och 2 på nivå 5.
 
-Tabell för vetekvarnen:
-Nivå 1: 13 st nivå 4, 2 st nivå 5.
-Nivå 2: 2 st nivå 2, 13 st nivå 6.
-Nivå 3: Alla nivå 6.
+Tabell för vetekvarnen:  
+Nivå 1: 13 st nivå 4, 2 st nivå 5.  
+Nivå 2: 2 st nivå 2, 13 st nivå 6.  
+Nivå 3: Alla nivå 6.  
 
 Därefter bygger man nivå 7 och sedan är det dags för hjältens egendom. Detta gäller dock enbart om det är en 50%-oas. Jag tänker inte göra någon uträkning på när man ska bygga upp hjältens egendom om man ska ta en 25%-oas, för jag kan inte se att någon i alliansen saknar en 50%-oas. Givetvis ska man börja med 50%-oasen, och inte med en 25%-oas. En gissning är dock att man utan problem kan vänta till nivå 9-10 på fälten innan man ska påbörja byggandet av hjältens egendom för att ta en 25%-oas.
 
@@ -27,11 +27,10 @@ Vid nivå 7 tjänar man in kostnaden för hjältens egendom, som kostar 114260 a
 
 Därefter ska man bygga nivå 4 och 5 på vetekvarnen och nivå 1 och 2 på bageriet på samma gång. Det beror på att nivå 5 på vetekvarnen är så dyr att man faktiskt inte tjänar på just den nivån, men nivå 1 och 2 på bageriet är rätt billiga. Eftersom man behöver fält på nivå 10 för att bygga bageri så ska man ta upp det fältet i förväg. Även denna extra relativa kostnad, som frångår principen om att uppgradera en nivå åt gången, är mest effektivt just när man ska ge sig på bageriet. Man ska inte uppgradera vetekvarnen från nivå 3 innan alla fält är på plats som krävs för hela operationen.
 
-Nivå 4-5 vetekvarn, och 1-2 bageri. = 10 fält nivå 7, 4 fält nivå 8 och ett fält nivå 10.
-Nivå 3 bageri: 2 fält nivå 7, 12 fält nivå 8 och så det fältet som man tidigare byggde till 10.
-Nivå 4 bageri: Alla fält ska vara minst nivå 9.
+Nivå 4-5 vetekvarn, och 1-2 bageri. = 10 fält nivå 7, 4 fält nivå 8 och ett fält nivå 10.  
+Nivå 3 bageri: 2 fält nivå 7, 12 fält nivå 8 och så det fältet som man tidigare byggde till 10.  
+Nivå 4 bageri: Alla fält ska vara minst nivå 9.  
 Nivå 5 bageri: Alla fält ska ha nått nivå 10, och om det är en HS ska man helst ha byggt ett fält nivå 11. Det betyder inte att man ska skita i nivå 5 om man följer den här modellen i en icke-HS.
-
 
 Nivå 15 hjältens egendom med 50% oas.
 
