@@ -51,49 +51,51 @@ Nivå 16-20 hjältens egendom kostar 1595070. Det är en hel del. Med en 50% som
 
 Tredje oasen, om den är en 25%
 
-Dvs när man redan har 100% eller 75% bonus sedan innan och ska ta en sista oas som är 25%. Detta gör sig bäst när fälten är på nivå 14.En kort version.
+Dvs när man redan har 100% eller 75% bonus sedan innan och ska ta en sista oas som är 25%. Detta gör sig bäst när fälten är på nivå 14.
 
-Vetekvarn nivå 1.
+###En kort version
+
+Vetekvarn nivå 1.  
 Två fält nivå 5, resten nivå 4.
 
-Vetekvarn nivå 2.
+Vetekvarn nivå 2.  
 Alla fält förutom två nivå 6.
 
-Vetekvarn nivå 3.
+Vetekvarn nivå 3.  
 Alla fält nivå 6.
 
-Hjältens egendom nivå 10 och 50%-oas.
+Hjältens egendom nivå 10 och 50%-oas.  
 Alla fält nivå 7.
 
-Vetekvarn nivå 4.
+Vetekvarn nivå 4.  
 Ett fält nivå 10, fyra fält nivå 8 och tio fält nivå 7.
 
-Vetekvarn nivå 5.
+Vetekvarn nivå 5.  
 Ett fält nivå 10, fyra fält nivå 8 och tio fält nivå 7.
 
-Bageri nivå 1
+Bageri nivå 1  
 Ett fält nivå 10, fyra fält nivå 8 och tio fält nivå 7.
 
-Bageri nivå 2
+Bageri nivå 2  
 Ett fält nivå 10, fyra fält nivå 8 och tio fält nivå 7.
 
-Bageri nivå 3
+Bageri nivå 3  
 Två fält nivå 7, resten på 8, förutom det som redan är på nivå 10 förstås.
 
-Bageri nivå 4
+Bageri nivå 4  
 Alla fält minst nivå 9.
 
-Bageri nivå 5.
+Bageri nivå 5.  
 Ett fält nivå 11, resten nivå 10.
 
-Andra oasen om det är en 50%
+Andra oasen om det är en 50%  
 När alla fält är nivå 10.
 
-Andra oasen, om det är en 25%
+Andra oasen, om det är en 25%  
 När alla fält är nivå 11.
 
-Tredje oasen om det är en 50%
+Tredje oasen om det är en 50%  
 När alla fält är nivå 13.
 
-Tredje oasen om det är en 25%
+Tredje oasen om det är en 25%  
 När alla fält är nivå 14.
