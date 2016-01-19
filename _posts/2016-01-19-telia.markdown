@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Telia"
+date:   2016-01-19 20:04:00
+categories: telia
+---
+Nu har jag snart varit på Telia i 6 månader. Tiden går hel galet fort, men tittar vi tillbaka så har vi ändå hunnit med en hel del.
+
+Mitt team jobbar med fiberaffären på Telia och vi har hand om 4 siter, där huvudfokus ligger på följande siter:
+[oppenfiber.se](http://www.oppenfiber.se/)
+[oppenfiber.se](http://www.teliaoperator.se/)
